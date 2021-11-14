@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2015, text: '10th: 95%', },
-  { year: 2017, text: '12th: 61.6%', },
-  { year: 2021, text: 'Currently: 3.37 CGPA', },
+  // { year: 2015, text: '10th: 95%', },
+  // { year: 2017, text: '12th: 61.6%', },
+  { year: 2021, text: 'Currently: 3.37/4 CGPA', },
   { year: 2022, text: 'Completion Year', },
   // { year: 2021, text: 'Started my own platform', },
 ];
